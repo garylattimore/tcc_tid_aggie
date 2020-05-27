@@ -68,7 +68,7 @@
     "passport": "~0.2.0",
     "passport-local": "~1.0.0",
     "passport.socketio": "~3.0.1",
-    "request": "~2.34.0",
+    "request": "~2.88.2",
     "resanitize": "~0.3.0",
     "rwlock": "^5.0.0",
     "single-line-log": "~0.4.1",
