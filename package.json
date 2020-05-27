@@ -34,7 +34,7 @@
     "deepmerge": "^0.2.10",
     "ejs": "^2.5.1",
     "email": "~0.2.6",
-    "express": "~3.4.8",
+    "express": "~3.11.0",
     "express-spa-router": "0.0.6",
     "fbgraph": "~1.1.0",
     "feedparser": "~0.16.6",
