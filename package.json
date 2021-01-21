@@ -72,7 +72,7 @@
     "resanitize": "~0.3.0",
     "rwlock": "^5.0.0",
     "single-line-log": "~0.4.1",
-    "socket.io": "~0.9.16",
+    "socket.io": "~2.4.0",
     "strformat": "0.0.3",
     "string": "~3.0.0",
     "timekeeper": "0.0.4",
@@ -106,7 +106,7 @@
     "mocha": "^2.3.3",
     "ng-html2js": "^2.0.0",
     "protractor": "^2.5.1",
-    "socket.io": "^0.9.17",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^0.9.16",
     "supertest": "^2.0.0",
     "vinyl-buffer": "^1.0.0"
